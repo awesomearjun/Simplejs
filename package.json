@@ -1,0 +1,23 @@
+{
+  "name": "simplejs",
+  "version": "1.0.0",
+  "description": "A very simple web framework (I know, another one haha.) This one is very simple and is very close to just vanillajs. Not complex at all, hence the name simplejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awesomearjun/Simplejs.git"
+  },
+  "keywords": [
+    "SimpleJS",
+    "Framework"
+  ],
+  "author": "Arj404",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awesomearjun/Simplejs/issues"
+  },
+  "homepage": "https://github.com/awesomearjun/Simplejs#readme"
+}
